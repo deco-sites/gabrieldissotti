@@ -3,24 +3,16 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "site/sections/ItWorks.tsx",
-      "name": "<p>It Works! test 123</p>",
-      "count": 6666
-    },
-    {
-      "__resolveType": "Groovy Vibes"
+      "__resolveType": "Test Hero"
     },
     {
       "__resolveType": "site/sections/Footer.tsx",
-      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10959/942b8d6e-a7f5-458b-a719-42d87a97b89b",
-      "href": "test",
-      "alt": "test",
-      "width": 150,
+      "href": "http://google.com",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10959/f2328bc8-4859-431e-a738-8066c7264046",
+      "alt": "test66677777",
       "height": 150,
-      "text": "150"
-    },
-    {
-      "__resolveType": "Serene Coastline"
+      "width": 150,
+      "text": "Feito por Gabriel Dissotti"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
